@@ -8,6 +8,12 @@ This repo is only for deploying purpose if you want to look into main source cod
 To be safe fork this repo and then press deploy button from the forked repo 
 
 Fork Deploy is highly recommended
+<br><br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+<br><br>
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
